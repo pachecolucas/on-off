@@ -1,0 +1,9 @@
+body {
+  background: black;
+  color: white;
+}
+
+body.on {
+  background: white;
+  color: black;
+}
